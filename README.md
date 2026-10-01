@@ -48,8 +48,11 @@ User Input → AI Agent → Analysis of financial profile → Eligibility check 
 ## Live Demo
 https://certain-finova-smart-path.base44.app
 
-## Demo Video
-Coming soon
+## API Endpoint
+POST https://finova-ai-hjeg.onrender.com/run
+
+## Live App
+https://certain-finova-smart-path.base44.app/
 
 ## Team
 - GOKUL N
